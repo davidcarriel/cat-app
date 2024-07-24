@@ -19,7 +19,8 @@ Abra um terminal localizado no diretório do aplicativo e execute o seguinte com
 
 ### Hospedagem (opcional)
 Utilizando a plataforma gratuita de hospedagem [Discloud](https://discloud.com/), crie no diretório principal um arquivo chamado `discloud.config` e insira os dados abaixo e, caso queira ajuste da forma que preferir. Para dúvidas: [Documentação da Discloud](https://docs.discloud.com/)
-```NAME=catbot
+```
+NAME=catbot
 AVATAR=sua-url
 TYPE=app
 MAIN=index.js
