@@ -19,7 +19,7 @@ async function buildCatEmbed() {
             icon_url: 'https://media.discordapp.net/attachments/1225634636756025385/1230644025552404521/Design_sem_nome.png?ex=669edb0f&is=669d898f&hm=34170e8fb3a5b043fc293dcf945b3671deb584d2d7b7261e0cd4eee1d414bbf0&=&format=webp&quality=lossless'
         },
         footer: {
-            text: '© 2024 PRICEDAVID'    
+            text: '© 2024 PRICE'    
         }
     };
 
