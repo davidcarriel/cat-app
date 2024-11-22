@@ -8,7 +8,7 @@ async function buildCatEmbed() {
     }
 
     const embed = {
-        title: `gato! 🐱`,
+        title: `gato do dia! 🐱`,
         description: 'veja esta imagem adorável de um gato!',
         color: 0xFFA500,
         image: {
